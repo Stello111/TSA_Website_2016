@@ -1,9 +1,7 @@
-div {
+body{
   background-color:#8B0000;
 }
-body{
-  background-color:#00FA9A;
-}
+
 .AppDesc{
   font-family:sans-serif;
   size:14px;
