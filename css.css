@@ -1,9 +1,13 @@
 body{
-  background-color:blue;
-  color: white;
+  background-color:778899;
 }
 
-div{
-  background-color:CC0000;
-  color: white;
+.AppDesc{
+  font-family:sans-serif;
+  color:#4682B4;
+}
+
+.AppTitle{
+  font-family:Impact;
+  color:#FFFFFF;
 }
