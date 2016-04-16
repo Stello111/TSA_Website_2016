@@ -1,8 +1,13 @@
-body{
-  color:#FFFFFF;
+head{
+  color:white;
   background-color:red;
 }
 
-a{
-  color:#FFFFFF;
+body{
+  background-color:red;
+}
+
+div{
+  color:red;
+  background-color:white;
 }
